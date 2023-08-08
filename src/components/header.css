@@ -1,0 +1,26 @@
+.header{
+    background: lightblue;
+    height: 30vh;
+}
+
+.nav__bar ul{
+    display: flex;
+    justify-content: center;
+}
+
+.nav__bar li{
+    list-style-type: none;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+.nav__bar a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.25rem;
+}
+
+.title__container{
+    display: flex;
+    justify-content: center;
+}
